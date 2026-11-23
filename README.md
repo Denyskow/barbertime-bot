@@ -21,3 +21,14 @@ python main.py
 Години роботи, довжина слоту і т.д. — в `config.py`.
 
 Команди адміна: `/admin`
+
+<p>
+  <img src="screenshots/1-start.png" width="260">
+  <img src="screenshots/2-service.png" width="260">
+  <img src="screenshots/3-master.png" width="260">
+</p>
+<p>
+  <img src="screenshots/4-time.png" width="260">
+  <img src="screenshots/5-confirm.png" width="260">
+  <img src="screenshots/6-my-bookings.png" width="260">
+</p>
